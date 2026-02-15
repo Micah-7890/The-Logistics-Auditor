@@ -1,3 +1,9 @@
+## Executive Summary
+Our delivery audit reveals that customer dissatisfaction is strongly associated with inaccurate delivery estimates rather than isolated late shipments alone. While delivery delays occur nationwide, remote and infrastructure-constrained regions exhibit significantly higher late and super-late rates, suggesting regional logistical inefficiencies. More importantly, categories with higher delay percentages consistently show lower average review scores, confirming that over-promising and under-delivering materially impacts customer sentiment. The findings indicate that the issue is partially regional but also systemic in delivery time estimation accuracy. Addressing forecast reliability and improving logistics performance in high-risk regions and product categories will significantly improve customer satisfaction and brand trust.
+
+
+
+
 # Project Brief: The "Last Mile" Logistics Auditor
 
 **Client:** Veridi Logistics (Global E-Commerce Aggregator)  
